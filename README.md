@@ -1,1 +1,1 @@
-# ssdt-demo
+# How to automate deployment of Microsoft SQL database with Azure DevOps
